@@ -15,4 +15,4 @@ A simple web application develop for picking random winner on your youtube comme
 - `Mobile` App work for mobile youtube app too, but the site is design to use on browser
 
 ## Language
-- currently this app is in Japanese and Chinese, I will make an English version soon, hopefully.
+- currently this app is in Chinese, hopefully there will be an English version soon
