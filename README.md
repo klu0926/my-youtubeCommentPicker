@@ -2,7 +2,7 @@
 A simple web application develop for picking random winner on your youtube comment. click [Github Page](https://klu0926.github.io/my-youtubeCommentPicker/) here
 
 ## Screenshot
-![screenshot](images/screen1.png)
+![screenshot](images/screen2.png)
 
 ## How To
 1. Insert URL of your youtube video
